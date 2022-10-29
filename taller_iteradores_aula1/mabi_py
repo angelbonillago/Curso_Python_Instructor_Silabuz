@@ -1,0 +1,8 @@
+def gene_Letr(palabra):
+    dicc = {}
+    for idx in list(palabra):
+        cant = palabra.count(idx)
+        dicc[idx] = cant #1era iteracion
+        return dicc
+
+print(gene_Letr("humanidad"))

@@ -1,0 +1,27 @@
+LISTAS
+Las listas en Python son un tipo contenedor, compuesto, que se usan para almacenar conjuntos de elementos relacionados del mismo tipo o de tipos distintos
+
+#documentacion Listas
+https://j2logo.com/python/tutorial/tipo-list-python/#list-clase
+https://www.mclibre.org/consultar/python/lecciones/python-listas.html
+
+
+TUPLAS
+La clase tuple en Python es un tipo contenedor, compuesto, que en un principio se pensó para almacenar grupos de elementos heterogéneos, aunque también puede contener elementos homogéneos.
+
+#documentacion Listas
+https://j2logo.com/python/tutorial/tipo-tuple-python/#tuple-clase
+https://www.mclibre.org/consultar/python/lecciones/python-tupla.html
+
+DICCICONARIO
+La clase dict de Python es un tipo mapa que asocia claves a valores. A diferencia de los tipos secuenciales (list, tuple, range o str), que son indexados por un índice numérico, los diccionarios son indexados por claves. Estas claves siempre deben ser de un tipo inmutable,
+
+#documentacion diccionario
+https://j2logo.com/python/tutorial/tipo-dict-python/#dict-clase
+
+CONJUNTOS
+ Un conjunto es una colección desordenada de elementos únicos, es decir, que no se repiten.
+
+#Documentacion
+https://j2logo.com/python/tutorial/tipo-set-python/#set-clase
+
